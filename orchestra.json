@@ -1,0 +1,13 @@
+{
+    "name": "Match",
+    "description": "Match Official Extension",
+    "author": "Ahsanul Kabir",
+    "url": "https://github.com/",
+    "version": "1.0.0",
+    "config": {
+        "handles": "Match"
+    },
+    "provides": [
+        "Blupl\\Match\\MatchServiceProvider"
+    ]
+}
